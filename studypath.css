@@ -51,9 +51,10 @@ html {
     height: 10%;
     max-height: 10%;
 }
+
 .tree ul {
-    padding-top: 20px; position: relative;
-    
+    padding-top: 20px; 
+    position: relative;
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
@@ -124,8 +125,6 @@ right connector from last child*/
     padding: 5px 10px;
     text-decoration: none;
     color: #666;
-    font-family: arial, verdana, tahoma;
-    font-size: 11px;
     display: inline-block;
     
     border-radius: 5px;
